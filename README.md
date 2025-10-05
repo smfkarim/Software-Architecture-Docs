@@ -82,4 +82,76 @@ Includes all documentation related to **QA and validation** processes.
 | **Test-Plan-Document (TPD).md** | Defines overall testing approach and scope. |
 | **Test-Case-Document (TCD).md** | Contains individual test cases and expected results. |
 | **Performance-Test-Report.md** | Records load and stress testing outcomes. |
-| **Se**
+| **Security-Test-Report.md** | Logs security vulnerabilities and fixes. |
+| **UAT-Plan-and-Report.md** | Details user acceptance testing and sign-off. |
+
+---
+
+### 06. Deployment and Maintenance
+Guides for **deployment**, **environment setup**, and **post-launch operations**.
+
+| File | Description |
+|------|--------------|
+| **Deployment-Guide.md** | Step-by-step deployment procedure. |
+| **Environment-Setup-Guide.md** | Setup guide for dev, staging, and production environments. |
+| **Rollback-and-Recovery-Plan.md** | Procedures for reverting to stable versions. |
+| **Release-Notes/** | Change logs for each released version. |
+| **Operational-Manual.md** | Explains daily operational processes. |
+| **Monitoring-and-Alerting-Guide.md** | Describes monitoring tools and alert configurations. |
+| **Post-Implementation-Review.md** | Evaluates project success and future improvements. |
+
+---
+
+### 07. Advanced Architecture
+Focuses on **scalable**, **resilient**, and **modern architectures**.
+
+| File | Description |
+|------|--------------|
+| **Microservices-Architecture-Blueprint.md** | Service boundaries and communication patterns. |
+| **API-Gateway-and-Service-Mesh-Design.md** | Centralized routing, authentication, and observability. |
+| **Event-Driven-Architecture (EDA)-Plan.md** | Event sourcing, pub/sub design, and message brokers. |
+| **Disaster-Recovery-Plan.md** | Backup, replication, and recovery procedures. |
+| **Compliance-and-Audit-Document.md** | Legal, regulatory, and audit compliance documentation. |
+| **Scalability-and-Load-Testing.md** | Advanced testing and optimization strategies. |
+
+---
+
+### 08. Templates and References
+Predefined templates and resources to **standardize documentation**.
+
+| File | Description |
+|------|--------------|
+| **Document-Template-Checklist.md** | Ensures completeness of all documents. |
+| **UML-Template-Set/** | Ready-to-use templates for UML diagrams (Draw.io format). |
+| **Glossary.md** | Centralized list of project-specific terminology. |
+| **References-and-Standards.md** | External standards, frameworks, and reference materials. |
+
+---
+
+## 🧭 Usage Guide
+
+1. Follow the directory order — start from **Business Planning (01)** and move through to **Advanced Architecture (07)**.  
+2. Use the templates in **08-Templates-and-References** to maintain consistency.  
+3. Each `.md` file serves as a living document — update them during each development phase.  
+4. Store diagrams (PNG/DRAWIO) under their respective subfolders.
+
+---
+
+## 📘 Recommended Tools
+
+- **Draw.io / Lucidchart** – for system diagrams  
+- **Markdown Editor** – Typora, Obsidian, or VSCode  
+- **PlantUML** – for UML diagrams  
+- **Git + GitHub Wiki** – for versioned documentation  
+
+---
+
+## 🏁 Author & License
+
+**Author:** Your Team / Company  
+**License:** MIT or proprietary (as applicable)  
+**Version:** 1.0.0  
+
+---
+
+> _This structure ensures traceability, consistency, and maintainability across your software development lifecycle._
