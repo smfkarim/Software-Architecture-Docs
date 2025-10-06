@@ -53,11 +53,9 @@ Covers **system design**, **architectural decisions**, and **technical diagrams*
 | **API-Design-Specification** | Defines REST/GraphQL endpoints and structures. |
 | **Integration-Architecture** | Explains external system integrations. |
 | **Security-Architecture** | Describes authentication, authorization, and data protection. |
-| **Scalability-and-Performance-Plan** | Strategies for handling load and performance tuning. |
 | **Cloud-and-Infrastructure-Architecture** | Details cloud environment setup and infrastructure layers. |
 | **Caching-Strategy** | Defines caching mechanisms and invalidation policies. |
 | **Architecture-Decision-Records (ADR)** | Tracks key architectural decisions and rationale. |
-| **Disaster-Recovery-Plan** | Backup, replication, and recovery procedures. |
 | **Error-Handling-Strategy** |  Standardized error codes, exception handling patterns |
 
 ---
@@ -116,6 +114,8 @@ Focuses on **scalable**, **resilient**, and **modern architectures**.
 | **API-Gateway-and-Service-Mesh-Design** | Centralized routing, authentication, and observability. |
 | **Event-Driven-Architecture (EDA)-Plan** | Event sourcing, pub/sub design, and message brokers. |
 | **Compliance-and-Audit-Document** | Legal, regulatory, and audit compliance documentation. |
+| **Disaster-Recovery-Plan** | Backup, replication, and recovery procedures. |
+| **Scalability-and-Performance-Plan** | Strategies for handling load and performance tuning. |
 | **Scalability-and-Load-Testing** | Advanced testing and optimization strategies. |
 
 ---
