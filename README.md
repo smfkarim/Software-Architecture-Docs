@@ -33,6 +33,7 @@ Defines **software requirements** in detail — both functional and non-function
 | **Data-Requirements-Document (DRD)** | Defines data models, formats, and storage needs. |
 | **Non-Functional-Requirements (NFR)** | Performance, reliability, scalability, and other NFRs. |
 | **Glossary-and-Acronyms** | Definitions of key terms used throughout the project. |
+| **Regulatory-and-Compliance-Requirements** |  GDPR, HIPAA, SOC2, industry-specific regulations |
 
 ---
 
@@ -56,6 +57,8 @@ Covers **system design**, **architectural decisions**, and **technical diagrams*
 | **Cloud-and-Infrastructure-Architecture** | Details cloud environment setup and infrastructure layers. |
 | **Caching-Strategy** | Defines caching mechanisms and invalidation policies. |
 | **Architecture-Decision-Records (ADR)/** | Tracks key architectural decisions and rationale. |
+| **Disaster-Recovery-Plan** | Backup, replication, and recovery procedures. |
+| **Error-Handling-Strategy** |  Standardized error codes, exception handling patterns |
 
 ---
 
@@ -71,6 +74,7 @@ Contains guidelines and configurations for **development and DevOps**.
 | **Configuration-Management-Plan** | Versioning and environment configuration plan. |
 | **Logging-and-Monitoring-Strategy** | Tools and policies for observability. |
 | **Build-and-Deployment-Scripts/** | Scripts and YAMLs for Docker and deployment. |
+| **Code-Review-Guidelines** |  PR standards, review checklists |
 
 ---
 
@@ -99,6 +103,7 @@ Guides for **deployment**, **environment setup**, and **post-launch operations**
 | **Operational-Manual** | Explains daily operational processes. |
 | **Monitoring-and-Alerting-Guide** | Describes monitoring tools and alert configurations. |
 | **Post-Implementation-Review** | Evaluates project success and future improvements. |
+| **Incident-Response-Playbook** | On-call procedures, escalation paths |
 
 ---
 
@@ -110,7 +115,6 @@ Focuses on **scalable**, **resilient**, and **modern architectures**.
 | **Microservices-Architecture-Blueprint** | Service boundaries and communication patterns. |
 | **API-Gateway-and-Service-Mesh-Design** | Centralized routing, authentication, and observability. |
 | **Event-Driven-Architecture (EDA)-Plan** | Event sourcing, pub/sub design, and message brokers. |
-| **Disaster-Recovery-Plan** | Backup, replication, and recovery procedures. |
 | **Compliance-and-Audit-Document** | Legal, regulatory, and audit compliance documentation. |
 | **Scalability-and-Load-Testing** | Advanced testing and optimization strategies. |
 
