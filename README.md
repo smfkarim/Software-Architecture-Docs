@@ -47,8 +47,8 @@ Covers **system design**, **architectural decisions**, and **technical diagrams*
 | **Low-Level-Design (LLD)** | Provides detailed internal design for each component. |
 | **System-Context-Diagram.png** | Visual overview of external systems and integrations. |
 | **Component-Diagram.png** | Shows logical components and dependencies. |
-| **Sequence-Diagrams/** | Visualizes dynamic flows (e.g., login, payment, data sync). |
-| **Data-Flow-Diagrams/** | Shows how data moves through the system (Levels 0–2). |
+| **Sequence-Diagrams** | Visualizes dynamic flows (e.g., login, payment, data sync). |
+| **Data-Flow-Diagrams** | Shows how data moves through the system (Levels 0–2). |
 | **Database-Design-Document (DDD)** | Schema, entity relationships, and data modeling. |
 | **API-Design-Specification** | Defines REST/GraphQL endpoints and structures. |
 | **Integration-Architecture** | Explains external system integrations. |
@@ -56,7 +56,7 @@ Covers **system design**, **architectural decisions**, and **technical diagrams*
 | **Scalability-and-Performance-Plan** | Strategies for handling load and performance tuning. |
 | **Cloud-and-Infrastructure-Architecture** | Details cloud environment setup and infrastructure layers. |
 | **Caching-Strategy** | Defines caching mechanisms and invalidation policies. |
-| **Architecture-Decision-Records (ADR)/** | Tracks key architectural decisions and rationale. |
+| **Architecture-Decision-Records (ADR)** | Tracks key architectural decisions and rationale. |
 | **Disaster-Recovery-Plan** | Backup, replication, and recovery procedures. |
 | **Error-Handling-Strategy** |  Standardized error codes, exception handling patterns |
 
