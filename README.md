@@ -73,7 +73,7 @@ Contains guidelines and configurations for **development and DevOps**.
 | **API-Documentation (Swagger)** | Describes API endpoints, parameters, and responses. |
 | **Configuration-Management-Plan** | Versioning and environment configuration plan. |
 | **Logging-and-Monitoring-Strategy** | Tools and policies for observability. |
-| **Build-and-Deployment-Scripts/** | Scripts and YAMLs for Docker and deployment. |
+| **Build-and-Deployment-Scripts** | Scripts and YAMLs for Docker and deployment. |
 | **Code-Review-Guidelines** |  PR standards, review checklists |
 
 ---
@@ -99,7 +99,7 @@ Guides for **deployment**, **environment setup**, and **post-launch operations**
 | **Deployment-Guide** | Step-by-step deployment procedure. |
 | **Environment-Setup-Guide** | Setup guide for dev, staging, and production environments. |
 | **Rollback-and-Recovery-Plan** | Procedures for reverting to stable versions. |
-| **Release-Notes/** | Change logs for each released version. |
+| **Release-Notes** | Change logs for each released version. |
 | **Operational-Manual** | Explains daily operational processes. |
 | **Monitoring-and-Alerting-Guide** | Describes monitoring tools and alert configurations. |
 | **Post-Implementation-Review** | Evaluates project success and future improvements. |
@@ -126,7 +126,7 @@ Predefined templates and resources to **standardize documentation**.
 | File | Description |
 |------|--------------|
 | **Document-Template-Checklist** | Ensures completeness of all documents. |
-| **UML-Template-Set/** | Ready-to-use templates for UML diagrams (Draw.io format). |
+| **UML-Template-Set** | Ready-to-use templates for UML diagrams (Draw.io format). |
 | **Glossary** | Centralized list of project-specific terminology. |
 | **References-and-Standards** | External standards, frameworks, and reference materials. |
 
